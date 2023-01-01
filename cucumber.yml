@@ -1,0 +1,2 @@
+default: --publish-quiet
+#html_report: --format progress --format html --out HTML_Reports/ruby_cucumber_report.html
